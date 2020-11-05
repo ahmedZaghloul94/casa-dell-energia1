@@ -1,0 +1,4 @@
+"rent_id","departure_station_id","arrival_station_id","data","departure_date_and_time","arrival_date_and_time","resources_id","user_id"
+1,3,,"{""costo totale"": 300}",1604578809374,,10,
+2,3,3,"{""costo totale"": 400}",1604578809374,1604528819374,12,
+3,3,,"{""costo totale"": 400}",1604528829374,,12,
